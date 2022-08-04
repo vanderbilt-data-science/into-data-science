@@ -16,8 +16,28 @@ Data Science is an emerging interdisciplinary field whose goal is to extract kno
     </p>
 </p>
 
-In their book <a href="https://learning.oreilly.com/library/view/doing-data-science/9781449363871/">*Doing Data Science*</a>, authors Cathy O'Neil and Rachel Schutt propose the following:
+In their book [*Doing Data Science*](https://learning.oreilly.com/library/view/doing-data-science/9781449363871/), authors Cathy O'Neil and Rachel Schutt propose the following:
 > A data scientist is someone who knows how to extract meaning from and interpret data, which requires both tools and methods from statistics and machine learning, as well as being human. She spends a lot of time in the process of collecting, cleaning, and munging data, because data is never clean. This process requires persistence, statistics, and software engineering skills—skills that are also necessary for understanding biases in the data, and for debugging logging output from code.
 >
 > Once she gets the data into shape, a crucial part is exploratory data analysis, which combines visualization and data sense. She’ll find patterns, build models, and algorithms—some with the intention of understanding product usage and the overall health of the product, and others to serve as prototypes that ultimately get baked back into the product. She may design experiments, and she is a critical part of data-driven decision making. She’ll communicate with team members, engineers, and leadership in clear language and with data visualizations so that even if her colleagues are not immersed in the data themselves, they will understand the implications.  
 &mdash; <cite><a href="https://learning.oreilly.com/library/view/doing-data-science/9781449363871/">O’Neil and Schutt, 2013</a> (As cited by the <a href="https://datasciencedegree.wisconsin.edu/data-science/what-do-data-scientists-do/">University of Wisconsin</a>)</cite>
+
+## Resources
+
+### Books
+
+### Videos and Online Lectures
+
+### Courses for Vanderbilt Students
+
+### Workshops
+
+### AI Fridays
+
+### Undergraduate Data Science Minor
+
+Vanderbilt University offers a trans-institutional undergraduate [Data Science Minor](https://www.vanderbilt.edu/datascience/academics/undergraduate/overview/), spanning the Blair School of Music, the College of Arts and Science, the School of Engineering, and Peabody College. Students are introduced to the fundamentals&mdash; computer programming, statistics, machine learning, and visualization&mdash; with attention to ethical considerations of collecting, curating, analyzing, visualizing, and interpreting data. The minor in Data Science prepares students for advanced coursework in statistics and data analysis, scientific computing and simulation, machine learning and visualization, and high performance computing and big data.
+
+### Data Science M.S. Degree
+
+The Vanderbilt [Master of Science in Data Science](https://www.vanderbilt.edu/datascience/academics/msprogram/program-details/) is a 4-semester graduate program. The curriculum is organized into three sequences: *Computation*, focusing on programming, data structures, computer systems, and methods, *Data Analysis*, focusing on data exploration, analysis, prediction, inference and algorithms, and *Practice*, focusing on workplace skills, ethical standards, and awareness of data science to date. The Data Science M.S. program prepares students in the skills of computation, statistics, critical thinking, communication, and domain-specific knowledge that are now essential in a wide variety of quantitative, computational, and scientific disciplines.
