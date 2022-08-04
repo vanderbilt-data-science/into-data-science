@@ -1,2 +1,5 @@
-# into-data-science
-A beginner's introduction to the field of Data Science. 
+# Introduction to Data Science
+
+## Overview &mdash; What Is Data Science?
+
+Data Science is an emerging interdisciplinary field whose goal is to extract knowledge and enable discovery from complex data using a fusion of computation, mathematics, statistics, and machine learning. Datasets can be as varied as maps of the universe, MRI images, human genomes, medical records, stock market transactions, educational data, historical texts, infrastructure systems, or website clickstream data. Over the coming decades, Data Science is expected to have significant impacts on basic and applied research in the sciences, social sciences, arts and humanities, and engineering as well as impact all sectors of the economy from health care to education, government, transportation, finance, manufacturing, construction, and urban planning. Data Science has the potential to improve individual and community health and education; develop smart communities that enable efficient circulation of people, goods, and services; enable informed decision making in public and private sectors; and enhance environmental sustainability and overall quality of life. Given the wide range of applications and potential benefits, the powerful tools and techniques of Data Science must be used ethically and responsibly.
