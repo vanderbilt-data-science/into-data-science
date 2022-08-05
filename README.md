@@ -26,17 +26,25 @@ In their book [*Doing Data Science*](https://learning.oreilly.com/library/view/d
 
 ### Books
 
-### Videos and Online Lectures
+* **Wickham, Hadley and Garrett Grolemund. R for Data Science.** Those with an O'Rielly Media account (including all Vanderbilt students) can access the book [here](https://learning-oreilly-com.proxy.library.vanderbilt.edu/home/). The book also has a freely available and open-source webpage [here](https://r4ds.had.co.nz/). The book is a good introduction to the R programming language in a Data Science context.
 
-### Courses for Vanderbilt Students
+### Videos and Online Lectures
 
 ### Workshops
 
-### AI Fridays
+The Data Science Institute often offers workshops on various important topics in data science. See our [webpage](https://www.vanderbilt.edu/datascience/events/data-science-workshops/) for details and examples of past workshops.
+
+### AI Deep Dives
+
+In these sessions, held Fridays from 1-2pm, a researcher presents a problem to the gathered data scientists and students and together we explore approaches to solving the problem using AI tools. See our [webpage](https://www.vanderbilt.edu/datascience/ai-deep-dives/) for details and examples of past topics.
 
 ### Undergraduate Data Science Minor
 
 Vanderbilt University offers a trans-institutional undergraduate [Data Science Minor](https://www.vanderbilt.edu/datascience/academics/undergraduate/overview/), spanning the Blair School of Music, the College of Arts and Science, the School of Engineering, and Peabody College. Students are introduced to the fundamentals&mdash; computer programming, statistics, machine learning, and visualization&mdash; with attention to ethical considerations of collecting, curating, analyzing, visualizing, and interpreting data. The minor in Data Science prepares students for advanced coursework in statistics and data analysis, scientific computing and simulation, machine learning and visualization, and high performance computing and big data.
+
+#### Non-Minors
+
+Undergraduate students who wish to study aspects of data science but do not wish to pursue a minor may find this [list of data science courses](https://www.vanderbilt.edu/undergrad-datascience/course-descriptions/) helpful. 
 
 ### Data Science M.S. Degree
 
