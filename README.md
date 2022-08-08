@@ -26,7 +26,21 @@ In their book [*Doing Data Science*](https://learning.oreilly.com/library/view/d
 
 ### Books
 
-* **Wickham, Hadley and Garrett Grolemund. R for Data Science.** Those with an O'Rielly Media account (including all Vanderbilt students) can access the book [here](https://learning-oreilly-com.proxy.library.vanderbilt.edu/home/). The book also has a freely available and open-source webpage [here](https://r4ds.had.co.nz/). The book is a good introduction to the R programming language in a Data Science context.
+* Wickham, Hadley and Garrett Grolemund. **R for Data Science.**
+  * Those with an O'Rielly Media account (including all Vanderbilt students) can access the book [here](https://learning-oreilly-com.proxy.library.vanderbilt.edu/home/). The book also has a freely available and open-source webpage [here](https://r4ds.had.co.nz/).
+  * This book is a good introduction to the R programming language in a Data Science context.
+
+* Bruce, Peter and Andrew Bruce. **Practical Statistics for Data Scientists, 2nd Edition.**
+  * Those with an O'Rielly Media account (including all Vanderbilt students) can access the book [here](https://learning.oreilly.com/library/view/practical-statistics-for/9781491952955/).
+  * This book provides some introduction into the key statistical concepts and tools that every data scientist should understand.
+
+* Müller, Andreas C. and Sarah Guido. **Introduction to Machine Learning with Python.**
+  * Those with an O'Rielly Media account (including all Vanderbilt students) can access the book [here](https://learning.oreilly.com/library/view/introduction-to-machine/9781449369880/).
+  * This book provides an introduction to the fundamental concepts and practices of machine learning with Python. While previous knowledge of Python is not required, those who have some familiarity (especially with NumPy and Matplotlib) will move through it more quickly.
+  * A word of warning: the title says "Python," but the cover of the book actually displays an image of an [Alleghany Hellbender Salamander](https://en.wikipedia.org/wiki/Hellbender), which is NOT a python, or even a reptile. At this time, we are unaware of any programming language called "Alleghany Hellbender Salamander."
+* Nield, Thomas. **Essential Math for Data Science**
+  * Those with an O'Rielly Media account (including all Vanderbilt students) can access the book [here](https://learning.oreilly.com/library/view/essential-math-for/9781098102920/).
+  * This book covers some of the most important mathematical concepts that underlie a data scientist's tookilt. While many of the tools used in data science can be used blindly with or without this mathematical background, a solid understanding of the mechanics behind the tools is crucial to maximizing their effectiveness.
 
 ### Videos and Online Lectures
 
@@ -44,7 +58,7 @@ Vanderbilt University offers a trans-institutional undergraduate [Data Science M
 
 #### Non-Minors
 
-Undergraduate students who wish to study aspects of data science but do not wish to pursue a minor may find this [list of data science courses](https://www.vanderbilt.edu/undergrad-datascience/course-descriptions/) helpful. 
+Undergraduate students who wish to study aspects of data science but do not wish to pursue a minor may find this [list of data science courses](https://www.vanderbilt.edu/undergrad-datascience/course-descriptions/) helpful.
 
 ### Data Science M.S. Degree
 
