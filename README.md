@@ -44,6 +44,8 @@ In their book [*Doing Data Science*](https://learning.oreilly.com/library/view/d
 
 ### Videos and Online Lectures
 
+TODO
+
 ### Workshops
 
 The Data Science Institute often offers workshops on various important topics in data science. See our [webpage](https://www.vanderbilt.edu/datascience/events/data-science-workshops/) for details and examples of past workshops.
